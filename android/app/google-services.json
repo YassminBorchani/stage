@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "48402530996",
+    "project_id": "jassminstore-b7006",
+    "storage_bucket": "jassminstore-b7006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48402530996:android:c210ae9ee941f7af830de1",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48402530996-5qn3qejqhv2d30jlb1husih0mi6h0ol3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEE8I3QrRLL-9Dw2iyzdt5Ii6qNaxM1rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48402530996-5qn3qejqhv2d30jlb1husih0mi6h0ol3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
